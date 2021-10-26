@@ -20,12 +20,16 @@
         "fastecs": "^0.0.3",
         "geotic": "^4.1.0",
         "geotic-legacy": "^3.5.5",
+        "goodluck": "^7.0.0",
+        "harmony-ecs": "^0.0.8",
         "log-update": "^4.0.0",
         "nano-ecs": "^2.4.0",
         "perform-ecs": "^0.7.8",
         "picoes": "^1.0.0",
+        "piecs": "^0.4.0",
         "tiny-ecs": "^2.0.0",
         "uecs": "0.1.7",
+        "wolf-ecs": "^2.0.0",
         "yagl-ecs": "^1.1.0"
     },
     "devDependencies": {

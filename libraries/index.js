@@ -1,5 +1,5 @@
 export { default as GeoticLibrary } from './lib-geotic';
-export { default as GeoticLegacyLibrary } from './lib-geotic-legacy';
+// export { default as GeoticLegacyLibrary } from './lib-geotic-legacy';
 export { default as PerformEcsLibrary } from './lib-perform-ecs';
 export { default as ApeEcsLibrary } from './lib-ape-ecs';
 // export { default as EcsyLibrary } from './lib-ecsy';
@@ -7,6 +7,10 @@ export { default as NanoEcsLibrary } from './lib-nano-ecs';
 export { default as TinyEcsLibrary } from './lib-tiny-ecs';
 export { default as YaglEcsLibrary } from './lib-yagl-ecs';
 export { default as UecsEcsLibrary } from './lib-uecs';
-export { default as FastEcsLibrary } from './lib-fastecs';
+// export { default as FastEcsLibrary } from './lib-fastecs';
 export { default as BitecsEcsLibrary } from './lib-bitecs';
+export { default as GoodluckLibrary } from './lib-goodluck';
 export { default as PicoesLibrary } from './lib-picoes';
+export { default as WolfEcsLibrary } from './lib-wolf-ecs';
+export { default as PiecsLibrary } from './lib-piecs';
+export { default as HarmonyEcsLibrary } from './lib-harmony-ecs';
